@@ -1,0 +1,19 @@
+body {
+    margin: 3% 2%;
+}
+
+p, ul, li {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.regular {
+    font-weight: 500;
+}
+
+.thin {
+    font-weight: 400;
+}
